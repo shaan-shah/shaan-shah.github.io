@@ -3,21 +3,21 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Filippo
+first_name: Shaan
 middle_name:
-last_name: Mazzoli
-email: filippo.mazzoli@mis.mpg.de
+last_name: Shah
+email: shaanshah.365@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Filippo Mazzoli's academic webpage.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: filippo mazzoli, mazzoli math, mazzoli, mathematics, uva, virginia, luxembourg, uni lu, max planck institute, mpi mis  # add your own keywords or leave empty
+keywords: shaan shah, shaan, IIT Bombay, UCSD, Neuromorphic  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://filippomazzoli.github.io # the base hostname & protocol for your site
+url: https://shaan-shah.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -70,23 +70,23 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-arxiv_id: filippo.mazzoli # your ArXiv ID
-github_username: filippomazzoli # your GitHub user name
+arxiv_id: # your ArXiv ID
+github_username: shaan-shah # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: ZOARHegAAAAJ # your Google Scholar ID
+scholar_userid: eLJEnNIAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0002-6609-915X # your ORCID ID
+orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
-research_gate_profile: Filippo-Mazzoli # your profile on ResearchGate
+research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
@@ -277,8 +277,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Mazzoli]
-  first_name: [Filippo]
+  last_name: [Shah]
+  first_name: [Shaan]
 
   style: apa
   locale: en
