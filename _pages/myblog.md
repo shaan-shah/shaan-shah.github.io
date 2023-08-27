@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: redirected
 permalink: /myblog/
 title: blog
 nav: true
