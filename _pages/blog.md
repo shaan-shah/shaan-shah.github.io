@@ -1,8 +1,7 @@
 ---
 layout: default
-permalink: /cv/
-title: cv
+permalink: /blog/
+title: blog
 nav: true
-nav_order: 4
 redirect_to: https://medium.com/@shaanshah1
 ---
