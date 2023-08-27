@@ -1,7 +1,5 @@
 ---
-layout: default
-permalink: /cv/
-title: cv
+layout: forward
 nav: true
-redirect_to: 
+target: https://shaan-shah.github.io//assets/pdf/cv.pdf
 ---
