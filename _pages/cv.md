@@ -1,7 +1,7 @@
----
-layout: cv
+layout: default
 permalink: /cv/
 title: cv
 nav: true
-cv_pdf: example_pdf.pdf
+nav_order: 4
+redirect_to: https://medium.com/@shaanshah1
 ---
