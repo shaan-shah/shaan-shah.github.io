@@ -1,7 +1,7 @@
 ---
-layout: forward
+layout: default
 permalink: /cv/
 title: cv
 nav: true
-target: https://shaan-shah.github.io//assets/pdf/cv.pdf
+redirect_to: https://shaan-shah.github.io//assets/pdf/cv.pdf
 ---
