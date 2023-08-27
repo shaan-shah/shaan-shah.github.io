@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /cv/
-title: cv
+permalink: /blog/
+title: blog
 nav: true
-redirect_to: /assets/pdf/cv.pdf
+redirect_to: https://medium.com/@shaanshah1
 ---
