@@ -19,5 +19,5 @@ I interned at <a href = 'https://home.barclays/'>Barclays</a> as well, working a
 
 In my spare time, I'm an avid sports enthusiast, enjoying squash, bouldering, and hitting the gym. I am also a certified scuba diver and discussions about diving never fail to get me excited! :) 
 
-Beyond sports, I'm an eclectic reader, enjoying everything from fantasy fiction to books on commodity trading – please do check out my <a href = '#'>reading list</a>!
+Beyond sports, I'm an eclectic reader, enjoying everything from fantasy fiction to books on commodity trading – please do check out my <a href = 'https://shaan-shah.github.io/readinglist/'>reading list</a>!
 
