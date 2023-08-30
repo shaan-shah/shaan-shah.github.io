@@ -9,14 +9,14 @@ nav: true
 I've recently begun compiling a collection of my favorite reads. This list is a work in progress, so please feel free to reach out to me via email/LinkedIn if you have any book recommendations! 
 
 ---
-### Fiction
+### fiction
 + Book Recommendation 1
 
 
 
 
 ---
-### Non Fiction
+### non-fiction
 + Book Recommendation 2
 
 
