@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /notes/
+permalink: /readinglist/
 title: reading list
 description: 
 nav: true
@@ -8,7 +8,7 @@ nav: true
 
 I've recently begun compiling a collection of my favorite reads. This list is a work in progress, so please feel free to reach out to me via email/LinkedIn if you have any book recommendations! 
 
-
+---
 ### Fiction
 + Book Recommendation 1
 
