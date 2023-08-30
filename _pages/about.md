@@ -13,7 +13,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am an incoming PhD student at UC San Diego interested in Neuromorphic Computing and Neuroelectronics and I recently graduated from IIT Bombay with a Bachelor's in Electrical Engineering. 
 
-As an undergraduate researcher at <a href = 'https://nanomemorylogic.wordpress.com/'>MeLoDe</a> lab, I worked on tuning <a href = 'https://en.wikipedia.org/wiki/Liquid_state_machine'>Liquid State Machines </a> for speech processing. I was also a research intern at <a href = 'https://teelabiisc.wordpress.com/'>IISC</a>, contributing to a deep learning-based tool for tracking animals in the wild.
+As an undergraduate researcher at <a href = 'https://nanomemorylogic.wordpress.com/'>MeLoDe</a> lab, I worked on tuning <a href = 'https://en.wikipedia.org/wiki/Liquid_state_machine'>Liquid State Machines </a> for speech processing. I was also a research intern at <a href = 'https://teelabiisc.wordpress.com/'>IISC</a>, contributing to a deep learning based tool helping ecologists track animals in the wild.
 
 I interned at <a href = 'https://home.barclays/'>Barclays</a> as well, working at the <a href = 'https://en.wikipedia.org/wiki/Delta_one'>Delta-1</a> trading desk to develop predictive models for Swiss and Italian benchmark indices. I also interned as a backend software engineer at <a href = 'https://truckx.com/'>TruckX</a>, a startup offering IoT solutions for fleet management.
 
