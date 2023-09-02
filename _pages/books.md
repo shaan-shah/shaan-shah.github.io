@@ -46,6 +46,19 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Haroun and the Sea of Stories - Salman Rushdie
 + Immortal - Krishna Udayasankar
 + Asterix Omnibus - René Goscinny, Albert Uderzo
++ Time Stops at Shamli - Ruskin Bond
++ Coup D'Etat - Ben Coes
++ The Himalayan Conspiracy - Sutradhar
++ Jurassic Park - Michael Crichton
++ A Man Called Ove - Fredrik Backman
++ Next - Michael Crichton
++ Tamasha in Bandargaon - Navneet Jagannathan
++ The Shadow Throne - Aroon Raman
++ Giver - Lois Lowry
++ The Revenant - Michael Punke
++ Jonathan Livingston Seagull - Richard Bach
++ Breach: A Cyber Thriller - Amrita Chowdhury
++ Animal Farm - George Orwell
 
 
 
@@ -96,6 +109,22 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Out of the Box - Harsha Bhogle
 + Everest 1953 - Mick Conefrey
 + Insects - MS Mani
-+ 
++ The Story of My Experiments with Truth - Mahatma Gandhi
++ Living with the Himalayan Masters - Swami Rama
++ Into the wild - Jon Krakauer
++ The Happiness Hypothesis - Jonathan Haidt
++ Forge your future - A.P.J Abdul Kalam
++ Ramayana of Valmiki
++ Panther on the Prowl - M.D. Chaturvedi
++ Mahabharata
++ Waling with a Himalayan Master
++ No Worse Enemy: The Inside Story of the Chaotic Struggle for Afghanistan
++ Himalaya - Michael Palin
++ Wings of Fire: Autobiography of Abdul Kalam
++ The One That Got Away: My SAS Mission Behind Enemy Lines
++ Black Swan - Nassim Nicholas Taleb
++ Social Life of Animals - Sukanya Dutta
++ The Very Best of the Common Man - R.K. Laxman
++ The Why Axis: Hidden Motives and the Undiscovered Economics of Everyday Life
 
 
