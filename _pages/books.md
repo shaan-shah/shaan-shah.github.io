@@ -34,7 +34,18 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + The Martian - Andy Weir
 + Fishbowl - Matthew Glass
 + His Dark Materials - Philip Pullman
-
++ The Da Vinci Code - Dan Brown
++ The Lost Symbol - Dan Brown
++ Right and Glory - Max Adams
++ Angels and Demons - Dan Brown
++ A Song of Ice and Fire (Game of Thrones)
++ Lorien Legacies Series - Pittacus Lore
++ Cicero Trilogy - Robert Harris
++ Jason Bourne Series - Robert Ludlum
++ The Case of Deadly Butter Chicken - Tarquin Hall
++ Haroun and the Sea of Stories - Salman Rushdie
++ Immortal - Krishna Udayasankar
++ Asterix Omnibus - René Goscinny, Albert Uderzo
 
 
 
@@ -77,5 +88,14 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Talent: How to Identify Energizers, Creatives, and Winners Around the World
 + Commodities Demystified - Trafigura
 + Prepayments Demystified - Trafigura
++ Signals: How Everyday Signs Can Help Us Navigate the World's Turbulent Economy
++ One More Ride on the Merry-Go-Round
++ Amul's India
++ Born Wild: Journeys into the Wild Hearts of India and Africa
++ The Autobiography of a Yogi - Paramhansa Yogananda
++ Out of the Box - Harsha Bhogle
++ Everest 1953 - Mick Conefrey
++ Insects - MS Mani
++ 
 
 
