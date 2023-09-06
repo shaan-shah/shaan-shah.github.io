@@ -166,5 +166,41 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + The Very Best of the Common Man - R.K. Laxman
 + The Why Axis: Hidden Motives and the Undiscovered Economics of Everyday Life
 + The Power Law: Venture Capital and the Making of the New Future
-
-
++ A Complete Guide to the Futures Market - Jack D. Schwager
++ A Complete Guide To Volume Price Analysis - Anna Coulling
++ A Short History of Nearly Everything - Bill Bryson
++ Algorithms to Live By The Computer Science of Human Decisions
++ Antifragile Things That Gain from Disorder - Nassim Nicholas Taleb
++ Behave The Biology of Humans at Our Best and Worst
++ Buyology: Truth and Lies About Why We Buy
++ Cosmos - Carl Sagan
++ Deep Work - Cal Newport
++ Digital Minimalism - Cal Newport
++ Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future
++ Factfulness: Ten Reasons We’re Wrong About the World—and Why Things Are Better Than You Think
++ Finite and Infinite Games: A Vision of Life as Play and Possibility
++ Flash Boys: A Wall Street Revolt - Michael Lewis
++ Galileo's Error: Foundations for a New Science of Consciousness
++ Genghis Khan and the Making of the Modern World
++ Grit: The Power of Passion and Perseverance
++ How to Become a Straight-A Student: The Unconventional Strategies Real College Students Use to Score High While Studying Less
++ How To Win Friends and Influence People
++ Into Thin Air: A Personal Account of the Mount Everest Diaster
++ It's Not All About "Me": The Top Ten Techniques for Building Quick Rapport with Anyone
++ Liar’s Poker: Rising Through the Wreckage on Wall Street
++ Man's Search for Meaning - Viktor Frankl
++ Moneyball: The Art of Winning an Unfair Game
++ Open: An Autobiography - Andre Agassi
++ Range: Why Generalists Triumph in a Specialized World
++ Six easy pieces - Richard Feynman
++ So Good They Cant Ignore You: Why Skills Trump Passion in the Quest for Work You Love
++ "Surely You`re Joking, Mr. Feynman!" – Adventures a Curious Character
++ The Accidental Billionaires: The Founding of Facebook A Tale of Sex, Money, Genius and Betrayal
++ The Almanack of Naval Ravikant: A Guide to Wealth and Happiness
++ The Art of Doing Science and Engineering: Learning to Learn - Richard Hamming
++ The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution
++ The Rational Optimist: How Prosperity Evolves
++ The Unusual Billionaires - Saurabh Mukherjea
++ Traders, Guns and Money: Knowns and Unknowns in the Dazzling World of Derivatives
++ Bulls, Bears and Other Beasts: A Story of the Indian Stock Market
++ Where Good Ideas Come From: The Natural History of Innovation
