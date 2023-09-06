@@ -59,6 +59,45 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Jonathan Livingston Seagull - Richard Bach
 + Breach: A Cyber Thriller - Amrita Chowdhury
 + Animal Farm - George Orwell
++ The Firm - John Grisham
++ The Pelican Brief - John Grisham
++ The Rainmaker - John Grisham
++ Anxious People - Fredrik Backman
++ The Ash Mistry Chronicles - Sarwat Chadda
++ Atlas Shrugged - Ayn Rand
++ Behind Her Eyes - Sarah Pinborough
++ Brave New World - Aldous Huxley
++ Designated Survivor - John Matthews
++ Ender's Game - Orson Scott Card
++ For Whom the Bell Tolls - Ernest Hemingway
++ God is a Gamer - Ravi Subramanian
++ Good Omens - Neil Gaiman,Terry Pratchett
++ Home Before Dark - Riley Sager
++ House of Cards - Michael Dobbs
++ Lie in the Dark - Dan Fesperman
++ Not a Penny More, Not a Penny Less - Jeffrey Archer
++ Outbreak - Robin Cook
++ Safe Houses - Dan Fesperman
++ Seveneves - Neal Stephenson
++ Snow Crash - Neal Stephenson
++ The 22 Murders of Madison May - Max Barry
++ The Dinner - Herman Koch
++ The Fist of God - Frederick Forsyth
++ The Guest List - Lucy Foley
++ The Humans - Matt Haig
++ The Midnight Library - Matt Haig
++ The Odessa File - Frederick Forsyth
++ The Palace of Illusions - Chitra Banerjee Divakaruni
++ The Poppy War - R. F. Kuang
++ The Runaway Jury - John Grisham
++ The Song of Achilles - Madeline Miller
++ The Third Secret - Steve Berry
++ The Woman in the Window - A. J. Finn
++ Verity - Colleen Hoover
++ The Devourers - Indra Das
++ Tom Clancy's Op-Center
++ Politika: Power Plays 01 - Tom Clancy
++ Artemis - Andy Weir
 
 
 
@@ -117,7 +156,7 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Ramayana of Valmiki
 + Panther on the Prowl - M.D. Chaturvedi
 + Mahabharata
-+ Waling with a Himalayan Master
++ Walking with a Himalayan Master
 + No Worse Enemy: The Inside Story of the Chaotic Struggle for Afghanistan
 + Himalaya - Michael Palin
 + Wings of Fire: Autobiography of Abdul Kalam
@@ -126,5 +165,6 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Social Life of Animals - Sukanya Dutta
 + The Very Best of the Common Man - R.K. Laxman
 + The Why Axis: Hidden Motives and the Undiscovered Economics of Everyday Life
++ The Power Law: Venture Capital and the Making of the New Future
 
 
