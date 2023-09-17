@@ -204,3 +204,4 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Traders, Guns and Money: Knowns and Unknowns in the Dazzling World of Derivatives
 + Bulls, Bears and Other Beasts: A Story of the Indian Stock Market
 + Where Good Ideas Come From: The Natural History of Innovation
++ The Alchemy of Air - Thomas Hager
