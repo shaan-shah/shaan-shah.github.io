@@ -99,6 +99,7 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Politika: Power Plays 01 - Tom Clancy
 + Artemis - Andy Weir
 + Exadelic - Jon Evans
++ The Night Manager - John Le Carre
 
 
 ---
