@@ -10,9 +10,7 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 
 ---
 ### fiction
-+ The Shiva Trilogy - Amish
-+ Ram Chandra Series - Amish
-+ The Daevabad Trilogy - S. A. Chakraborty
++ The Night Manager - John Le Carre
 + Project Hail Mary - Andy Weir
 + The Alchemist - Paulo Coelho
 + Legend of Suheldev - Amish
@@ -74,6 +72,9 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Good Omens - Neil Gaiman,Terry Pratchett
 + Home Before Dark - Riley Sager
 + House of Cards - Michael Dobbs
++ The Shiva Trilogy - Amish
++ Ram Chandra Series - Amish
++ The Daevabad Trilogy - S. A. Chakraborty
 + Lie in the Dark - Dan Fesperman
 + Not a Penny More, Not a Penny Less - Jeffrey Archer
 + Outbreak - Robin Cook
@@ -99,19 +100,18 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Politika: Power Plays 01 - Tom Clancy
 + Artemis - Andy Weir
 + Exadelic - Jon Evans
-+ The Night Manager - John Le Carre
 
 
 ---
 ### non-fiction
 + The Double Helix - James Watson
-+ Sapiens: A Brief History of Humankind - Yuval Noah Harari
 + A Thousand Brains - Jeff Hawkins
 + The Selfish Gene - Richard Dawkins
 + Thinking, Fast and Slow - Daniel Kahneman
 + The Human Advantage: How Our Brains Became Remarkable -  Suzana Herculano-Houzel
 + Chaos: Making a New Science - James Gleick
 + Mendeleyev's Dream: The Quest for the Elements - Paul Strathern
++ Sapiens: A Brief History of Humankind - Yuval Noah Harari
 + The Big Score: The Billion Dollar Story of Silicon Valley - Michael S. Malone
 + In the Company of Giants: Candid Conversations with the Visionaries of the Digital World
 + King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone
