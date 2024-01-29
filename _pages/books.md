@@ -10,7 +10,8 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 
 ---
 ### fiction
-+ The Deep Sky - Yume Kitasei 
++ The Deep Sky - Yume Kitasei
++ Mistborn Trilogy - Brandon Sanderson 
 + The Night Manager - John Le Carre
 + Project Hail Mary - Andy Weir
 + The Alchemist - Paulo Coelho
