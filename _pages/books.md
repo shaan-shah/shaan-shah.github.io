@@ -93,6 +93,7 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + The Odessa File - Frederick Forsyth
 + The Palace of Illusions - Chitra Banerjee Divakaruni
 + The Poppy War - R. F. Kuang
++ Termination Shock - Neal Stephenson
 + The Runaway Jury - John Grisham
 + The Song of Achilles - Madeline Miller
 + The Third Secret - Steve Berry
