@@ -211,3 +211,5 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Where Good Ideas Come From: The Natural History of Innovation
 + The Alchemy of Air - Thomas Hager
 + Kitchen Confidential: Adventures in the Culinary Underbelly -  Anthony Bourdain
++ The Laws of Trading: A Trader's Guide to Better Decision-Making for Everyone
++ No Worries: How to Live a Stress Free Financial Life
