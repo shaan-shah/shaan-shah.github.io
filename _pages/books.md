@@ -9,105 +9,6 @@ nav: true
 I've recently begun compiling a collection of my favorite reads. This list is a work in progress, so please feel free to reach out to me via email/LinkedIn if you have any book recommendations! 
 
 ---
-### fiction
-+ The Deep Sky - Yume Kitasei
-+ Interface - Neal Stephenson
-+ Mistborn Trilogy - Brandon Sanderson 
-+ The Night Manager - John Le Carre
-+ Project Hail Mary - Andy Weir
-+ The Alchemist - Paulo Coelho
-+ Legend of Suheldev - Amish
-+ The Complete Calvin & Hobbes - Bill Watterson
-+ Pearls Before Swine - Stephan Pastis
-+ The Complete Hitchhiker's Guide to the Galaxy Boxset - Douglas Adams
-+ Summit - Harry Farthing
-+ End Game - Matthew Glass
-+ The Inheritance Cycle -  Christopher Paolini
-+ The Lord of the Rings - JRR Tolkien
-+ Harry Potter - JK Rowling
-+ The Girl with the Dragon Tattoo - Stieg Larsson
-+ Dark Places - Gillian Flynn
-+ The Seven Deaths of Evelyn Hardcastle - Stuart Turton
-+ Three Men in a Boat - Jerome K Jerome
-+ Kane and Abel - Jeffrey Archer
-+ 1984 - George Orwell
-+ Dark Matter - Blake Crouch
-+ The Martian - Andy Weir
-+ Fishbowl - Matthew Glass
-+ His Dark Materials - Philip Pullman
-+ The Da Vinci Code - Dan Brown
-+ The Lost Symbol - Dan Brown
-+ Right and Glory - Max Adams
-+ Angels and Demons - Dan Brown
-+ A Song of Ice and Fire (Game of Thrones)
-+ Lorien Legacies Series - Pittacus Lore
-+ Cicero Trilogy - Robert Harris
-+ Jason Bourne Series - Robert Ludlum
-+ The Case of Deadly Butter Chicken - Tarquin Hall
-+ Haroun and the Sea of Stories - Salman Rushdie
-+ Immortal - Krishna Udayasankar
-+ Asterix Omnibus - René Goscinny, Albert Uderzo
-+ Time Stops at Shamli - Ruskin Bond
-+ Coup D'Etat - Ben Coes
-+ The Himalayan Conspiracy - Sutradhar
-+ Jurassic Park - Michael Crichton
-+ A Man Called Ove - Fredrik Backman
-+ Next - Michael Crichton
-+ Tamasha in Bandargaon - Navneet Jagannathan
-+ The Shadow Throne - Aroon Raman
-+ Giver - Lois Lowry
-+ The Revenant - Michael Punke
-+ Jonathan Livingston Seagull - Richard Bach
-+ Breach: A Cyber Thriller - Amrita Chowdhury
-+ Animal Farm - George Orwell
-+ The Firm - John Grisham
-+ The Pelican Brief - John Grisham
-+ The Rainmaker - John Grisham
-+ Anxious People - Fredrik Backman
-+ The Ash Mistry Chronicles - Sarwat Chadda
-+ Atlas Shrugged - Ayn Rand
-+ Behind Her Eyes - Sarah Pinborough
-+ Brave New World - Aldous Huxley
-+ Designated Survivor - John Matthews
-+ Ender's Game - Orson Scott Card
-+ For Whom the Bell Tolls - Ernest Hemingway
-+ God is a Gamer - Ravi Subramanian
-+ Good Omens - Neil Gaiman,Terry Pratchett
-+ Home Before Dark - Riley Sager
-+ House of Cards - Michael Dobbs
-+ The Shiva Trilogy - Amish
-+ Ram Chandra Series - Amish
-+ The Daevabad Trilogy - S. A. Chakraborty
-+ Lie in the Dark - Dan Fesperman
-+ Not a Penny More, Not a Penny Less - Jeffrey Archer
-+ Outbreak - Robin Cook
-+ Safe Houses - Dan Fesperman
-+ Seveneves - Neal Stephenson
-+ Snow Crash - Neal Stephenson
-+ The 22 Murders of Madison May - Max Barry
-+ The Dinner - Herman Koch
-+ The Fist of God - Frederick Forsyth
-+ The Guest List - Lucy Foley
-+ The Humans - Matt Haig
-+ The Midnight Library - Matt Haig
-+ The Odessa File - Frederick Forsyth
-+ The Palace of Illusions - Chitra Banerjee Divakaruni
-+ The Poppy War - R. F. Kuang
-+ The Rebel Allocator - Jacob Taylor
-+ Termination Shock - Neal Stephenson
-+ The Runaway Jury - John Grisham
-+ The Song of Achilles - Madeline Miller
-+ The Third Secret - Steve Berry
-+ The Woman in the Window - A. J. Finn
-+ Verity - Colleen Hoover
-+ The Devourers - Indra Das
-+ Tom Clancy's Op-Center
-+ Politika: Power Plays 01 - Tom Clancy
-+ Artemis - Andy Weir
-+ Exadelic - Jon Evans
-
-
----
 ### non-fiction
 + The Double Helix - James Watson
 + A Thousand Brains - Jeff Hawkins
@@ -214,3 +115,104 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Kitchen Confidential: Adventures in the Culinary Underbelly -  Anthony Bourdain
 + The Laws of Trading: A Trader's Guide to Better Decision-Making for Everyone
 + No Worries: How to Live a Stress Free Financial Life
+
+
+---
+### fiction
++ The Deep Sky - Yume Kitasei
++ Interface - Neal Stephenson
++ Mistborn Trilogy - Brandon Sanderson 
++ The Night Manager - John Le Carre
++ Project Hail Mary - Andy Weir
++ The Alchemist - Paulo Coelho
++ Legend of Suheldev - Amish
++ The Complete Calvin & Hobbes - Bill Watterson
++ Pearls Before Swine - Stephan Pastis
++ The Complete Hitchhiker's Guide to the Galaxy Boxset - Douglas Adams
++ Summit - Harry Farthing
++ End Game - Matthew Glass
++ The Inheritance Cycle -  Christopher Paolini
++ The Lord of the Rings - JRR Tolkien
++ Harry Potter - JK Rowling
++ The Girl with the Dragon Tattoo - Stieg Larsson
++ Dark Places - Gillian Flynn
++ The Seven Deaths of Evelyn Hardcastle - Stuart Turton
++ Three Men in a Boat - Jerome K Jerome
++ Kane and Abel - Jeffrey Archer
++ 1984 - George Orwell
++ Dark Matter - Blake Crouch
++ The Martian - Andy Weir
++ Fishbowl - Matthew Glass
++ His Dark Materials - Philip Pullman
++ The Da Vinci Code - Dan Brown
++ The Lost Symbol - Dan Brown
++ Right and Glory - Max Adams
++ Angels and Demons - Dan Brown
++ A Song of Ice and Fire (Game of Thrones)
++ Lorien Legacies Series - Pittacus Lore
++ Cicero Trilogy - Robert Harris
++ Jason Bourne Series - Robert Ludlum
++ The Case of Deadly Butter Chicken - Tarquin Hall
++ Haroun and the Sea of Stories - Salman Rushdie
++ Immortal - Krishna Udayasankar
++ Asterix Omnibus - René Goscinny, Albert Uderzo
++ Time Stops at Shamli - Ruskin Bond
++ Coup D'Etat - Ben Coes
++ The Himalayan Conspiracy - Sutradhar
++ Jurassic Park - Michael Crichton
++ A Man Called Ove - Fredrik Backman
++ Next - Michael Crichton
++ Tamasha in Bandargaon - Navneet Jagannathan
++ The Shadow Throne - Aroon Raman
++ Giver - Lois Lowry
++ The Revenant - Michael Punke
++ Jonathan Livingston Seagull - Richard Bach
++ Breach: A Cyber Thriller - Amrita Chowdhury
++ Animal Farm - George Orwell
++ The Firm - John Grisham
++ The Pelican Brief - John Grisham
++ The Rainmaker - John Grisham
++ Anxious People - Fredrik Backman
++ The Ash Mistry Chronicles - Sarwat Chadda
++ Atlas Shrugged - Ayn Rand
++ Behind Her Eyes - Sarah Pinborough
++ Brave New World - Aldous Huxley
++ Designated Survivor - John Matthews
++ Ender's Game - Orson Scott Card
++ For Whom the Bell Tolls - Ernest Hemingway
++ God is a Gamer - Ravi Subramanian
++ Good Omens - Neil Gaiman,Terry Pratchett
++ Home Before Dark - Riley Sager
++ House of Cards - Michael Dobbs
++ The Shiva Trilogy - Amish
++ Ram Chandra Series - Amish
++ The Daevabad Trilogy - S. A. Chakraborty
++ Lie in the Dark - Dan Fesperman
++ Not a Penny More, Not a Penny Less - Jeffrey Archer
++ Outbreak - Robin Cook
++ Safe Houses - Dan Fesperman
++ Seveneves - Neal Stephenson
++ Snow Crash - Neal Stephenson
++ The 22 Murders of Madison May - Max Barry
++ The Dinner - Herman Koch
++ The Fist of God - Frederick Forsyth
++ The Guest List - Lucy Foley
++ The Humans - Matt Haig
++ The Midnight Library - Matt Haig
++ The Odessa File - Frederick Forsyth
++ The Palace of Illusions - Chitra Banerjee Divakaruni
++ The Poppy War - R. F. Kuang
++ The Rebel Allocator - Jacob Taylor
++ Termination Shock - Neal Stephenson
++ The Runaway Jury - John Grisham
++ The Song of Achilles - Madeline Miller
++ The Third Secret - Steve Berry
++ The Woman in the Window - A. J. Finn
++ Verity - Colleen Hoover
++ The Devourers - Indra Das
++ Tom Clancy's Op-Center
++ Politika: Power Plays 01 - Tom Clancy
++ Artemis - Andy Weir
++ Exadelic - Jon Evans
+
+
