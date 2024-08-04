@@ -119,6 +119,8 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 
 ---
 ### fiction
++ The Black Cloud - Fred Hoyle
++ Permutation City - Greg Egan
 + The Deep Sky - Yume Kitasei
 + Interface - Neal Stephenson
 + Mistborn Trilogy - Brandon Sanderson 
@@ -214,5 +216,4 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Politika: Power Plays 01 - Tom Clancy
 + Artemis - Andy Weir
 + Exadelic - Jon Evans
-
 
