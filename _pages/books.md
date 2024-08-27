@@ -115,7 +115,8 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Kitchen Confidential: Adventures in the Culinary Underbelly -  Anthony Bourdain
 + The Laws of Trading: A Trader's Guide to Better Decision-Making for Everyone
 + No Worries: How to Live a Stress Free Financial Life
-
++ Narconomics: How to Run a Drug Cartel
++ Fed Up!: Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader
 
 ---
 ### fiction
