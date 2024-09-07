@@ -120,7 +120,10 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 
 ---
 ### fiction
++ Death's End - Liu Cixin
++ The Dark Forest - Liu Cixin
 + The Three-Body Problem - Liu Cixin
++ The Sun Also Rises - Ernest Hemingway
 + The Black Cloud - Fred Hoyle
 + Permutation City - Greg Egan
 + The Deep Sky - Yume Kitasei
@@ -218,4 +221,6 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Politika: Power Plays 01 - Tom Clancy
 + Artemis - Andy Weir
 + Exadelic - Jon Evans
+
+
 
