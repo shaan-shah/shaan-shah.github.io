@@ -220,6 +220,7 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Tom Clancy's Op-Center
 + Politika: Power Plays 01 - Tom Clancy
 + Artemis - Andy Weir
++ A Short Walk Through a Wide World - Douglas Westerbeke
 + Exadelic - Jon Evans
 
 
