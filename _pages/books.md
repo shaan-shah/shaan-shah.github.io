@@ -117,9 +117,13 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + No Worries: How to Live a Stress Free Financial Life
 + Narconomics: How to Run a Drug Cartel
 + Fed Up!: Success, Excess and Crisis Through the Eyes of a Hedge Fund Macro Trader
++ How the Economic Machine Works
++ On the Edge: The Art of Risking Everything
++ The Trading Game: A Confession
 
 ---
 ### fiction
++ Dune - Frank Herbert
 + Death's End - Liu Cixin
 + The Dark Forest - Liu Cixin
 + The Three-Body Problem - Liu Cixin
