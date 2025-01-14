@@ -120,6 +120,11 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + How the Economic Machine Works
 + On the Edge: The Art of Risking Everything
 + The Trading Game: A Confession
++ Prisoners of Geography: Ten Maps That Explain Everything About the World
++ Hooked: How to Build Habit-Forming Products
++ The Money Trap: Lost Illusions Inside the Tech Bubble
++ Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley
++ Situational Awareness: The Decade Ahead
 
 ---
 ### fiction
@@ -226,6 +231,7 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Artemis - Andy Weir
 + A Short Walk Through a Wide World - Douglas Westerbeke
 + Exadelic - Jon Evans
++ Moby-Dick or, The Whale
 
 
 
