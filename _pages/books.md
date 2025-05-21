@@ -107,6 +107,7 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + The Art of Doing Science and Engineering: Learning to Learn - Richard Hamming
 + The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution
 + The Rational Optimist: How Prosperity Evolves
++ Inside the Aquarium: The Making of a Top Soviet Spy
 + The Unusual Billionaires - Saurabh Mukherjea
 + Traders, Guns and Money: Knowns and Unknowns in the Dazzling World of Derivatives
 + Bulls, Bears and Other Beasts: A Story of the Indian Stock Market
@@ -137,7 +138,10 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Permutation City - Greg Egan
 + The Deep Sky - Yume Kitasei
 + Interface - Neal Stephenson
-+ Mistborn Trilogy - Brandon Sanderson 
++ Mistborn Trilogy - Brandon Sanderson
++ Circe
++ Recursion
++ Leviathan Wakes
 + The Night Manager - John Le Carre
 + Project Hail Mary - Andy Weir
 + The Alchemist - Paulo Coelho
