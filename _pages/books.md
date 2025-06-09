@@ -236,6 +236,9 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + A Short Walk Through a Wide World - Douglas Westerbeke
 + Exadelic - Jon Evans
 + Moby-Dick or, The Whale
++ Children of Time
++ The Devotion of Suspect X
++ We are Legion
 
 
 
