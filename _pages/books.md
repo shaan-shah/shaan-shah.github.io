@@ -148,7 +148,7 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Legend of Suheldev - Amish
 + The Complete Calvin & Hobbes - Bill Watterson
 + Pearls Before Swine - Stephan Pastis
-+ The Complete Hitchhiker's Guide to the Galaxy Boxset - Douglas Adams
++ The Hitchhiker's Guide to the Galaxy
 + Summit - Harry Farthing
 + End Game - Matthew Glass
 + The Inheritance Cycle -  Christopher Paolini
