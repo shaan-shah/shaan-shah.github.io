@@ -1,39 +1,60 @@
-/* --- Fix profile image layout for align: right in al-folio --- */
+/* === Force proper side-by-side layout for align: right === */
 
-/* Remove float behavior and set up a grid layout */
-.page-content > .about {
-  display: grid;
-  grid-template-columns: 2fr 1fr; /* text | image */
-  align-items: start;
+/* Kill all float behaviour that causes wrapping */
+.profile.float-right {
+  float: none !important;
+  margin: 0 !important;
+  display: inline-block;
+  vertical-align: top;
+}
+
+/* Wrap the about section in a flexible row */
+.page-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
   gap: 2rem;
 }
 
-/* Keep image aligned right and sized properly */
-.about .profile.float-right {
-  float: none !important; /* remove default float */
-  justify-self: end;
-  margin: 0 !important;
+/* Make sure the text block and profile coexist properly */
+.page-content > .about,
+.page-content > div:not(.profile) {
+  flex: 1 1 60%;
+  min-width: 280px;
 }
 
-.about .profile.float-right img {
-  max-width: 260px;
+/* Constrain and style the profile image on the right */
+.profile.float-right {
+  flex: 0 0 260px;
+}
+
+.profile.float-right img {
+  display: block;
+  width: 100%;
   height: auto;
   border-radius: 50%;
+  object-fit: cover;
 }
 
-/* Responsive behavior for smaller screens */
+/* --- Responsive: stack vertically on small screens --- */
 @media (max-width: 768px) {
-  .page-content > .about {
-    grid-template-columns: 1fr;
-    text-align: center;
+  .page-content {
+    flex-direction: column;
+    align-items: center;
   }
 
-  .about .profile.float-right {
-    justify-self: center;
+  .profile.float-right {
+    flex: 0 0 auto;
     margin-bottom: 1.5rem;
   }
 
-  .about .profile.float-right img {
+  .profile.float-right img {
     max-width: 180px;
+  }
+
+  .page-content > .about {
+    text-align: center;
   }
 }
