@@ -4,7 +4,7 @@ title: about
 permalink: /
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
 subtitle: "3rd-year PhD @ <a href='https://ucsd.edu/'>UC San Diego</a> (NeuroML Lab) · Previously: <a href='https://www.mit.edu/'>MIT</a> / <a href='https://mbzuai.ac.ae/'>MBZUAI</a> · <a href='https://www.iitb.ac.in/'>IIT Bombay</a> · <a href='https://iisc.ac.in/'>IISc</a> · <a href='https://home.barclays/'>Barclays</a> · <a href='https://truckx.com/'>TruckX</a>"
 news: false
