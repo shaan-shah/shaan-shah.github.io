@@ -23,5 +23,5 @@ Previously, I have: <br>
 
 Outside the lab, I am an avid sports enthusiast; I play squash, surf, hike and hit the gym regularly. I am also a certified open-water scuba diver.
 
-Beyond sports, I enjoy reading in my spare time, with a wide variety of tastes ranging from fantasy fiction to books on commodity trading. Check out what my reading list [here](https://shaan-shah.github.io/readinglist/)!  
+I enjoy reading in my spare time, check out my reading list [here](https://shaan-shah.github.io/readinglist/)!  
 
