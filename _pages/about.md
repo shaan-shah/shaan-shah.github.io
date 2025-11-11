@@ -6,11 +6,10 @@ subtitle: "3rd-year PhD @ <a href='https://ucsd.edu/'>UC San Diego</a> · Previo
 news: false
 latest_posts: false
 selected_papers: false
-social: true
+social: false
 ---
 
-I am a third-year PhD student at UC San Diego, working in the NeuroML Lab.  
-My research explores how large language models organize and transmit information, and how that mirrors the way the human brain processes the same inputs.
+I am a third-year PhD student at UC San Diego, working in the NeuroML Lab.  My research explores how large language models organize and transmit information, and how that mirrors the way the human brain processes the same inputs.
 
 Previously, I have: <br>
 \- worked as a production backend software engineer,  
