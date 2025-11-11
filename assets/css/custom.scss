@@ -1,45 +1,39 @@
-/* --- Fix profile image overlapping text (for al-folio) --- */
+/* --- Fix profile image layout for align: right in al-folio --- */
 
-/* Turn off float behavior and use flexbox for layout */
-.profile.float-right,
-.profile.float-left {
-  float: none !important;
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  gap: 2.5rem; /* space between text and image */
+/* Remove float behavior and set up a grid layout */
+.page-content > .about {
+  display: grid;
+  grid-template-columns: 2fr 1fr; /* text | image */
+  align-items: start;
+  gap: 2rem;
 }
 
-/* Reverse order when using right alignment */
-.profile.float-right {
-  flex-direction: row-reverse;
-  justify-content: flex-start;
+/* Keep image aligned right and sized properly */
+.about .profile.float-right {
+  float: none !important; /* remove default float */
+  justify-self: end;
+  margin: 0 !important;
 }
 
-/* Style and size the image */
-.profile img {
-  max-width: 260px; /* increase/decrease as needed */
+.about .profile.float-right img {
+  max-width: 260px;
   height: auto;
-  border-radius: 50%; /* keeps circular look */
-  margin: 0 !important; /* remove unwanted margins */
+  border-radius: 50%;
 }
 
-/* Prevent weird wrapping when the viewport is narrow */
-.profile + p,
-.profile + div {
-  clear: both !important;
-}
-
-/* Responsive tweak for smaller screens */
+/* Responsive behavior for smaller screens */
 @media (max-width: 768px) {
-  .profile.float-right,
-  .profile.float-left {
-    flex-direction: column;
-    align-items: center;
-    gap: 1.5rem;
+  .page-content > .about {
+    grid-template-columns: 1fr;
+    text-align: center;
   }
 
-  .profile img {
+  .about .profile.float-right {
+    justify-self: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .about .profile.float-right img {
     max-width: 180px;
   }
 }
