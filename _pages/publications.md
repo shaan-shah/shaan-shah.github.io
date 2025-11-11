@@ -1,14 +1,7 @@
 ---
-layout: page
+layout: redirected
 permalink: /publications/
 title: publications
-description: 
 nav: true
-nav_order: 1
+redirect_to: https://scholar.google.com/citations?user=eLJEnNIAAAAJ&hl
 ---
-<!-- _pages/publications.md -->
-<div class="publications">
-
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
-</div>
