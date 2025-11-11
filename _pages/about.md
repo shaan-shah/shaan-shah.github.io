@@ -18,7 +18,7 @@ I am a third-year PhD student at UC San Diego, working in the NeuroML Lab.  My r
 Previously, I have: <br>
 \- worked as a backend software engineer,  
 \- spent time on a trading desk at an investment bank,  
-\- researched materials and device physics for energy-efficient computing, and
+\- researched materials and device physics for energy-efficient computing and, 
 \- studied how post-training affects AI safety.  
 
 Outside the lab, I am an avid sports enthusiast; I play squash, surf, hike and hit the gym regularly. I am also a certified open-water scuba diver.
