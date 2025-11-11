@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 profile:
-  align: right
+  align: left
   image: Profile_Pic.jpg
   image_circular: false # crops the image to make it circular
 subtitle: "3rd-year PhD @ <a href='https://ucsd.edu/'>UC San Diego</a> · Previously: <a href='https://www.mit.edu/'>MIT</a> / <a href='https://mbzuai.ac.ae/'>MBZUAI</a> · <a href='https://www.iitb.ac.in/'>IIT Bombay</a> · <a href='https://iisc.ac.in/'>IISc</a>"
