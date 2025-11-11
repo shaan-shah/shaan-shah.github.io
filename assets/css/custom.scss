@@ -1,0 +1,13 @@
+/* Stop the image from floating into the text */
+.profile.float-right {
+  float: none !important;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  margin-top: 1rem;
+}
+
+.profile.float-right img {
+  max-width: 250px;
+  margin-left: 2rem; /* spacing between text and image */
+}
