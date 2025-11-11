@@ -12,7 +12,7 @@ social: false
 I am a third-year PhD student at UC San Diego, working in the NeuroML Lab.  My research explores how large language models organize and transmit information, and how that mirrors the way the human brain processes the same inputs.
 
 Previously, I have: <br>
-\- worked as a production backend software engineer,  
+\- worked as a backend software engineer,  
 \- spent time on a trading desk at an investment bank,  
 \- researched materials and device physics for energy-efficient computing, and  
 \- studied how post-training affects AI safety.  
