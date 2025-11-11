@@ -1,60 +1,32 @@
-/* === Force proper side-by-side layout for align: right === */
+/* --- Force About page image to stay on the right, not overlapping text --- */
 
-/* Kill all float behaviour that causes wrapping */
+/* Stop al-folio's float behavior */
 .profile.float-right {
   float: none !important;
-  margin: 0 !important;
-  display: inline-block;
-  vertical-align: top;
+  margin: 0 auto 2rem auto !important;
+  display: block;
+  text-align: center;
 }
 
-/* Wrap the about section in a flexible row */
-.page-content {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 2rem;
-}
-
-/* Make sure the text block and profile coexist properly */
-.page-content > .about,
-.page-content > div:not(.profile) {
-  flex: 1 1 60%;
-  min-width: 280px;
-}
-
-/* Constrain and style the profile image on the right */
-.profile.float-right {
-  flex: 0 0 260px;
-}
-
+/* Put the image in its own block aligned right */
 .profile.float-right img {
   display: block;
-  width: 100%;
+  margin: 0 0 2rem auto;   /* push image to the right edge */
+  max-width: 260px;        /* adjust image size */
   height: auto;
-  border-radius: 50%;
-  object-fit: cover;
+  border-radius: 50%;      /* keep circular if enabled */
 }
 
-/* --- Responsive: stack vertically on small screens --- */
+/* Add spacing below the image so text starts after it */
+.about > p:first-of-type {
+  clear: both !important;
+  margin-top: 2rem;
+}
+
+/* Optional: reduce top margin if it feels too spaced */
 @media (max-width: 768px) {
-  .page-content {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .profile.float-right {
-    flex: 0 0 auto;
-    margin-bottom: 1.5rem;
-  }
-
   .profile.float-right img {
+    margin: 0 auto 1.5rem auto; /* center on mobile */
     max-width: 180px;
-  }
-
-  .page-content > .about {
-    text-align: center;
   }
 }
