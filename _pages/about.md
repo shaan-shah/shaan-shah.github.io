@@ -21,5 +21,5 @@ Previously, I have: <br>
 \- researched materials and device physics for energy-efficient computing,    
 \- studied how post-training affects AI safety.  
 
-Outside the lab, I enjoy squash, surfing, and hiking, and I am a certified open-water scuba diver. I also enjoy reading, see my reading list [here](https://shaan-shah.github.io/readinglist/)!  
+Outside the lab, I enjoy squash, surfing, and hiking, and I am a certified open-water scuba diver. I also enjoy reading, checkout my reading list [here](https://shaan-shah.github.io/readinglist/)!  
 
