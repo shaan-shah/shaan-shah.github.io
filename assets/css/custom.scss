@@ -1,13 +1,30 @@
-/* Stop the image from floating into the text */
+/* --- Custom overrides for About page --- */
+
+/* Prevent image from floating into text */
 .profile.float-right {
   float: none !important;
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-end; /* keeps image on the right */
   align-items: flex-start;
-  margin-top: 1rem;
+  margin-bottom: 2rem;
 }
 
+/* Control image size and spacing */
 .profile.float-right img {
-  max-width: 250px;
-  margin-left: 2rem; /* spacing between text and image */
+  max-width: 260px;   /* adjust for desired size */
+  height: auto;
+  margin-left: 3rem;  /* space between image and text */
+  border-radius: 50%; /* keep circular if image_circular: true */
+}
+
+/* Optional: tweak layout for smaller screens */
+@media (max-width: 768px) {
+  .profile.float-right {
+    justify-content: center;
+  }
+
+  .profile.float-right img {
+    margin-left: 0;
+    max-width: 180px;
+  }
 }
