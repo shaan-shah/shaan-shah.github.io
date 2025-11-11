@@ -1,56 +1,54 @@
-/* --- Side-by-side layout for profile (align: right) --- */
+/* === Force image on right, text on left, no overlap === */
 
-/* Target the About page container */
-.page-content > .about {
+/* The outer wrapper that holds profile + text */
+main.page-content {
   display: flex;
+  flex-direction: row-reverse; /* image on the right */
   align-items: flex-start;
   justify-content: space-between;
+  flex-wrap: wrap;
   gap: 2rem;
-  flex-wrap: wrap; /* ensures responsive stacking on small screens */
 }
 
-/* Ensure text and image share space cleanly */
-.about .profile.float-right {
-  float: none !important;
-  order: 2;                /* ensure image stays on the right */
-  flex: 0 0 260px;         /* fixed width for image column */
+/* Profile container */
+main.page-content .profile {
+  float: none !important;   /* kill theme float */
   margin: 0 !important;
+  flex: 0 0 260px;          /* fixed width for image column */
 }
 
-.about > *:not(.profile) {
-  order: 1;
-  flex: 1 1 60%;
-  min-width: 300px;
-}
-
-/* Style the image itself */
-.about .profile.float-right img {
+main.page-content .profile img {
   width: 100%;
   height: auto;
   border-radius: 50%;
   object-fit: cover;
+  display: block;
 }
 
-/* Responsive: stack on mobile */
+/* Text block (everything that isn't the profile) */
+main.page-content > *:not(.profile) {
+  flex: 1 1 600px;
+  min-width: 280px;
+}
+
+/* --- Responsive: stack vertically on mobile --- */
 @media (max-width: 768px) {
-  .page-content > .about {
+  main.page-content {
     flex-direction: column;
     align-items: center;
     text-align: center;
   }
 
-  .about .profile.float-right {
-    order: 1;
-    margin-bottom: 1.5rem;
+  main.page-content .profile {
     flex: 0 0 auto;
+    margin-bottom: 1.5rem;
   }
 
-  .about > *:not(.profile) {
-    order: 2;
-    text-align: center;
-  }
-
-  .about .profile.float-right img {
+  main.page-content .profile img {
     max-width: 180px;
+  }
+
+  main.page-content > *:not(.profile) {
+    text-align: center;
   }
 }
