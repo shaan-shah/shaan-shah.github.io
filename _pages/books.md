@@ -125,10 +125,14 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Hooked: How to Build Habit-Forming Products
 + The Money Trap: Lost Illusions Inside the Tech Bubble
 + Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley
++ A Little History of the World - Ernst Gombrich
++ The Order of Time - Carlo Rovelli
++ Freakonomics - Stephen J. Dubner and Steven Levitt
 + Situational Awareness: The Decade Ahead
 
 ---
 ### fiction
++ Around the World in Eighty Days - Jules Verne
 + Dune - Frank Herbert
 + Death's End - Liu Cixin
 + The Dark Forest - Liu Cixin
@@ -237,7 +241,10 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Exadelic - Jon Evans
 + Moby-Dick or, The Whale
 + Children of Time
++ Stories of Your Life and Others - Ted Chiang
++ Ubik - Philip K. Dick
 + The Devotion of Suspect X
++ Mr. Penumbra's 24-Hour Bookstore - Robin Sloan
 + We are Legion
 
 
