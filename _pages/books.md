@@ -99,6 +99,7 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + Moneyball: The Art of Winning an Unfair Game
 + Open: An Autobiography - Andre Agassi
 + Range: Why Generalists Triumph in a Specialized World
++ Young Money: A Field Guide to Wealth and Purpose in Your Twenties - Jack Raines
 + Six easy pieces - Richard Feynman
 + So Good They Cant Ignore You: Why Skills Trump Passion in the Quest for Work You Love
 + "Surely You`re Joking, Mr. Feynman!" – Adventures a Curious Character
@@ -107,6 +108,7 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + The Art of Doing Science and Engineering: Learning to Learn - Richard Hamming
 + The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution
 + The Rational Optimist: How Prosperity Evolves
++ You Can Just Do Things: How High-Agency People Get What They Want Out of Life - Cate Hall and Sasha Chapin
 + Inside the Aquarium: The Making of a Top Soviet Spy
 + The Unusual Billionaires - Saurabh Mukherjea
 + Traders, Guns and Money: Knowns and Unknowns in the Dazzling World of Derivatives
@@ -129,6 +131,7 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + The Order of Time - Carlo Rovelli
 + Freakonomics - Stephen J. Dubner and Steven Levitt
 + Situational Awareness: The Decade Ahead
++ The Ground Breaker - Kanwal Rekhi
 
 ---
 ### fiction
@@ -246,6 +249,10 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + The Devotion of Suspect X
 + Mr. Penumbra's 24-Hour Bookstore - Robin Sloan
 + We are Legion
++ The Stormlight Archives Books 1 to 5 - Brandon Sanderson
++ Red Rising Saga Books 1 to 3 - Pierce Brown
++ There Is No Antimemetics Division - qntm
++ Scum Villain's Self-Saving System - Mo Xiang Tong Xiu
 
 
 
