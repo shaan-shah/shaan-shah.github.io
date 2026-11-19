@@ -41,7 +41,6 @@ I've recently begun compiling a collection of my favorite reads. This list is a 
 + The New Encyclopedia of Modern Bodybuilding: The Bible of Bodybuilding
 + Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts
 + The Art of Short Selling - Kathryn F. Staley
-+ Factfulness: Ten Reasons We're Wrong About the World - and Why Things Are Better Than You Think
 + Shoe Dog: A Memoir by the Creator of Nike
 + Will - Will Smith and Mark Manson
 + Talent: How to Identify Energizers, Creatives, and Winners Around the World
